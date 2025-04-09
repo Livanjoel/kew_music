@@ -1,4 +1,4 @@
-# AUTHORS
+##AUTHORS
 
 ## Maintainers
 * **Ravachol** @ravachol <ravacholf@proton.me>
